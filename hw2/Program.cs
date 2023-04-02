@@ -70,6 +70,7 @@
 
 
 #region task3
+//QEYD EMRAHIN KOMEYI ILE YAZIB BASA DUSDUM
 //Ədədlərdən ibarət olan bir array verilib həmin arraydə olan ən böyük ədədi ekrana yazdıran alqoritm yazın.
 
 
